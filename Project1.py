@@ -1,0 +1,5 @@
+name=input(str("Please input your name:"))
+phone=input(str("Please input your phone number:"))
+item=input(str("Please enter the name of the product you would like to purchase:"))
+price=float(input("Price of the product:"))
+qty=int(input("Quantity to purchase::"))
